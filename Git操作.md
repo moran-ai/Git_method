@@ -355,7 +355,7 @@ git push -u origin main
 
 https://blog.csdn.net/qq_34466755/article/details/113748527
 
-![image-20210630174326331](C:\Users\20622\AppData\Roaming\Typora\typora-user-images\image-20210630174326331.png)
+![image-20210630174326331](D:\githubfile\Git\image-20210630174326331.png)
 
 # git操作---> after content update 
 
