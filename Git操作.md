@@ -468,7 +468,7 @@ git merge master
 
 ② 分支冲突
 
-![image-20210708155043309](D:\githubfile\Git\image-20210708155043309.png)
+![image-20210708155043309](https://github.com/moran-ai/Git_method/blob/master/image-20210708155043309.png)
 
  冲突产生的原因:如果两个分支之间的版本差距过大，就会产生冲突，版本只能有1个版本的差距
 
